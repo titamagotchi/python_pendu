@@ -1,0 +1,13 @@
+#creation dictionnaire qui contiendra les mots
+liste = [
+    "garage",
+    "piscine",
+    "pantalon",
+    "chemise",
+] #on ne s'embête pas à en mettre plus ;)
+
+#initialisation de la varaible qui contiendra les chances
+chances_restantes = 8 #8 essais par mot, c'est un compteur
+
+#creation du fichier contenant les scores
+fichier_scores = scores
